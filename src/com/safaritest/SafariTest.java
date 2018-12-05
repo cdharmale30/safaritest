@@ -10,7 +10,7 @@ public class SafariTest {
 		WebDriver driver = new SafariDriver();
 		driver.get("http://www.gmail.com");
 System.out.println(1);
-	
+System.out.println(1);	
 	}
 
 }
