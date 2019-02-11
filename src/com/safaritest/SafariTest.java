@@ -11,6 +11,9 @@ public class SafariTest {
 		driver.get("http://www.gmail.com");
 System.out.println(1);
 System.out.println(1);	
+		
+		System.out.println("Gopal");	
+
 	}
 
 }
